@@ -1,3 +1,6 @@
+> on this fork i only want to embed the document to the path it has been on.
+> so there is no dialogue 
+
 Python wrapper and simple addons for the sioyek PDF viewer. Install using:
 ```
 python -m pip install sioyek
